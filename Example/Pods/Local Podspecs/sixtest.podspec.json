@@ -1,0 +1,22 @@
+{
+  "name": "sixtest",
+  "version": "0.1.0",
+  "summary": "A short description of sixtest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/aldo3/sixtest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aldo3": "al.dockett@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/aldo3/sixtest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "16.4"
+  },
+  "source_files": "sixtest/Classes/**/*"
+}
